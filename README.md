@@ -2,4 +2,7 @@
 
 <ul>
 <li>Template from getbootstrap.com</li>
+<li>Theme from bootswatch.com</li>
+<li>JS from bootstrapcdn.com</li>
+<li>jQuery script from https://code.jquery.com/</li>
 </ul>
